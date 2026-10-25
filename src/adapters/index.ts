@@ -9,7 +9,8 @@ export async function fetchStudio(studio: Studio, window: TimeWindow): Promise<Y
     const start = new Date(c.start);
     return start >= window.from && start <= window.to;
   });
-  // A week without Classes means a renamed venue or category, so keep the last good Snapshot
+  // A week without Classes means a renamed venue or category, or a closure. Keep the last good
+  // Snapshot either way: the page then shows a stale warning, not a silently empty Studio.
   if (classes.length === 0) throw new Error(`${studio.name}: no classes in the window`);
   return classes;
 }

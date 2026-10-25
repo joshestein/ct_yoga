@@ -8,7 +8,7 @@ export type YogaClass = {
   /** ISO 8601 with offset */
   start: string;
   end: string;
-  /** null when the Booking Platform does not expose capacity */
+  /** null when the Booking Platform does not expose spots left */
   spotsLeft: number | null;
   full: boolean;
   bookingUrl: string;

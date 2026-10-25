@@ -25,7 +25,8 @@ export const studios: Studio[] = [
     name: "Lighthouse",
     platform: "wix",
     siteUrl: "https://www.lighthouseholistic.co.za",
-    // Wix resource type for staff. Teachers appear under it.
+    // Wix resource type for staff. Teachers appear under it, and so do some rooms (Lounge, Sauna),
+    // but only on services that isYoga excludes.
     staffResourceTypeId: "1cd44cf8-756f-41c3-bd90-3e2ffcaf1155",
     color: "#E7B95A",
     // Mixed studio: sauna, hire, sound baths and breathwork share the schedule
