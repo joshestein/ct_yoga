@@ -1,14 +1,23 @@
 import { mkdir, readFile, rename, writeFile } from "node:fs/promises";
-import { dirname, join } from "node:path";
+import { basename, dirname, join } from "node:path";
 import type { Snapshot, StudioId } from "./types.ts";
 
 /** Last good Snapshot per Studio. A failed fetch leaves the previous file in place. */
 export async function loadSnapshot(dataDir: string, id: StudioId): Promise<Snapshot | null> {
+  const path = join(dataDir, `${id}.json`);
+  let text: string;
   try {
-    return JSON.parse(await readFile(join(dataDir, `${id}.json`), "utf8")) as Snapshot;
+    text = await readFile(path, "utf8");
   } catch (err) {
     if (err instanceof Error && "code" in err && err.code === "ENOENT") return null;
     throw err;
+  }
+  // A corrupt file must not take down the whole page: treat it like a missing one
+  try {
+    return JSON.parse(text) as Snapshot;
+  } catch (err) {
+    console.error(`${path}: unreadable snapshot, ignoring`, err);
+    return null;
   }
 }
 
