@@ -1,0 +1,417 @@
+{
+ "count": 24,
+ "next": null,
+ "previous": null,
+ "page": 1,
+ "page_size": 100,
+ "results": [
+  {
+   "id": 102938625,
+   "name": "Morning Practice",
+   "starts_at": "2026-10-26T07:00:00+02:00",
+   "ends_at": "2026-10-26T08:00:00+02:00",
+   "schedule_type": "class",
+   "is_full": false,
+   "customer_url": "/p/10213813-the-shala-cape-town-yoga-/e/102938625-morning-practice/",
+   "instructors": [
+    {
+     "name": "Alex Abbott"
+    }
+   ],
+   "venue": {
+    "name": "In-Studio"
+   }
+  },
+  {
+   "id": 102940787,
+   "name": "Slow Flow",
+   "starts_at": "2026-10-26T08:45:00+02:00",
+   "ends_at": "2026-10-26T09:45:00+02:00",
+   "schedule_type": "class",
+   "is_full": false,
+   "customer_url": "/p/10213813-the-shala-cape-town-yoga-/e/102940787-slow-flow/",
+   "instructors": [
+    {
+     "name": "Bea Baker"
+    }
+   ],
+   "venue": {
+    "name": "In-Studio"
+   }
+  },
+  {
+   "id": 102938457,
+   "name": "Lunch Class",
+   "starts_at": "2026-10-26T12:30:00+02:00",
+   "ends_at": "2026-10-26T13:30:00+02:00",
+   "schedule_type": "class",
+   "is_full": false,
+   "customer_url": "/p/10213813-the-shala-cape-town-yoga-/e/102938457-lunch-class/",
+   "instructors": [
+    {
+     "name": "Cara Carver"
+    }
+   ],
+   "venue": {
+    "name": "In-Studio"
+   }
+  },
+  {
+   "id": 102940856,
+   "name": "Yoga Foundations",
+   "starts_at": "2026-10-26T17:30:00+02:00",
+   "ends_at": "2026-10-26T18:30:00+02:00",
+   "schedule_type": "class",
+   "is_full": false,
+   "customer_url": "/p/10213813-the-shala-cape-town-yoga-/e/102940856-yoga-foundations/",
+   "instructors": [
+    {
+     "name": "Cara Carver"
+    }
+   ],
+   "venue": {
+    "name": "In-Studio"
+   }
+  },
+  {
+   "id": 103214897,
+   "name": "Morning Practice",
+   "starts_at": "2026-10-27T07:00:00+02:00",
+   "ends_at": "2026-10-27T08:00:00+02:00",
+   "schedule_type": "class",
+   "is_full": false,
+   "customer_url": "/p/10213813-the-shala-cape-town-yoga-/e/103214897-morning-practice/",
+   "instructors": [
+    {
+     "name": "Cara Carver"
+    }
+   ],
+   "venue": {
+    "name": "In-Studio"
+   }
+  },
+  {
+   "id": 103214605,
+   "name": "Strength & Alignment",
+   "starts_at": "2026-10-27T08:45:00+02:00",
+   "ends_at": "2026-10-27T09:45:00+02:00",
+   "schedule_type": "class",
+   "is_full": false,
+   "customer_url": "/p/10213813-the-shala-cape-town-yoga-/e/103214605-strength-alignment/",
+   "instructors": [
+    {
+     "name": "Dana Dale"
+    }
+   ],
+   "venue": {
+    "name": "In-Studio"
+   }
+  },
+  {
+   "id": 103213832,
+   "name": "Lunch Class",
+   "starts_at": "2026-10-27T12:30:00+02:00",
+   "ends_at": "2026-10-27T13:30:00+02:00",
+   "schedule_type": "class",
+   "is_full": false,
+   "customer_url": "/p/10213813-the-shala-cape-town-yoga-/e/103213832-lunch-class/",
+   "instructors": [
+    {
+     "name": "Eli Ellis"
+    }
+   ],
+   "venue": {
+    "name": "In-Studio"
+   }
+  },
+  {
+   "id": 103213449,
+   "name": "Yoga Conditioning",
+   "starts_at": "2026-10-27T17:30:00+02:00",
+   "ends_at": "2026-10-27T18:45:00+02:00",
+   "schedule_type": "class",
+   "is_full": false,
+   "customer_url": "/p/10213813-the-shala-cape-town-yoga-/e/103213449-yoga-conditioning/",
+   "instructors": [
+    {
+     "name": "Fay Frost"
+    }
+   ],
+   "venue": {
+    "name": "In-Studio"
+   }
+  },
+  {
+   "id": 103214843,
+   "name": "Morning Practice",
+   "starts_at": "2026-10-28T07:00:00+02:00",
+   "ends_at": "2026-10-28T08:00:00+02:00",
+   "schedule_type": "class",
+   "is_full": false,
+   "customer_url": "/p/10213813-the-shala-cape-town-yoga-/e/103214843-morning-practice/",
+   "instructors": [
+    {
+     "name": "Eli Ellis"
+    }
+   ],
+   "venue": {
+    "name": "In-Studio"
+   }
+  },
+  {
+   "id": 103214103,
+   "name": "Pre-Natal",
+   "starts_at": "2026-10-28T08:45:00+02:00",
+   "ends_at": "2026-10-28T09:45:00+02:00",
+   "schedule_type": "class",
+   "is_full": false,
+   "customer_url": "/p/10213813-the-shala-cape-town-yoga-/e/103214103-pre-natal/",
+   "instructors": [
+    {
+     "name": "Gus Grey"
+    }
+   ],
+   "venue": {
+    "name": "In-Studio"
+   }
+  },
+  {
+   "id": 103214500,
+   "name": "Lunch Class",
+   "starts_at": "2026-10-28T12:30:00+02:00",
+   "ends_at": "2026-10-28T13:30:00+02:00",
+   "schedule_type": "class",
+   "is_full": false,
+   "customer_url": "/p/10213813-the-shala-cape-town-yoga-/e/103214500-lunch-class/",
+   "instructors": [
+    {
+     "name": "Hana Hale"
+    }
+   ],
+   "venue": {
+    "name": "In-Studio"
+   }
+  },
+  {
+   "id": 103213057,
+   "name": "Midweek Reset",
+   "starts_at": "2026-10-28T17:30:00+02:00",
+   "ends_at": "2026-10-28T18:30:00+02:00",
+   "schedule_type": "class",
+   "is_full": false,
+   "customer_url": "/p/10213813-the-shala-cape-town-yoga-/e/103213057-midweek-reset/",
+   "instructors": [
+    {
+     "name": "Hana Hale"
+    }
+   ],
+   "venue": {
+    "name": "In-Studio"
+   }
+  },
+  {
+   "id": 103213338,
+   "name": "Morning Practice",
+   "starts_at": "2026-10-29T07:00:00+02:00",
+   "ends_at": "2026-10-29T08:00:00+02:00",
+   "schedule_type": "class",
+   "is_full": false,
+   "customer_url": "/p/10213813-the-shala-cape-town-yoga-/e/103213338-morning-practice/",
+   "instructors": [
+    {
+     "name": "Cara Carver"
+    }
+   ],
+   "venue": {
+    "name": "In-Studio"
+   }
+  },
+  {
+   "id": 103213299,
+   "name": "Slow Flow",
+   "starts_at": "2026-10-29T08:45:00+02:00",
+   "ends_at": "2026-10-29T09:45:00+02:00",
+   "schedule_type": "class",
+   "is_full": false,
+   "customer_url": "/p/10213813-the-shala-cape-town-yoga-/e/103213299-slow-flow/",
+   "instructors": [
+    {
+     "name": "Bea Baker"
+    }
+   ],
+   "venue": {
+    "name": "In-Studio"
+   }
+  },
+  {
+   "id": 103214678,
+   "name": "Master Class",
+   "starts_at": "2026-10-29T12:00:00+02:00",
+   "ends_at": "2026-10-29T13:30:00+02:00",
+   "schedule_type": "class",
+   "is_full": false,
+   "customer_url": "/p/10213813-the-shala-cape-town-yoga-/e/103214678-master-class/",
+   "instructors": [
+    {
+     "name": "Cara Carver"
+    }
+   ],
+   "venue": {
+    "name": "In-Studio"
+   }
+  },
+  {
+   "id": 103213376,
+   "name": "Evening Practice",
+   "starts_at": "2026-10-29T17:30:00+02:00",
+   "ends_at": "2026-10-29T18:45:00+02:00",
+   "schedule_type": "class",
+   "is_full": false,
+   "customer_url": "/p/10213813-the-shala-cape-town-yoga-/e/103213376-evening-practice/",
+   "instructors": [
+    {
+     "name": "Ivo Irwin"
+    }
+   ],
+   "venue": {
+    "name": "In-Studio"
+   }
+  },
+  {
+   "id": 103214944,
+   "name": "Morning Practice",
+   "starts_at": "2026-10-30T07:00:00+02:00",
+   "ends_at": "2026-10-30T08:00:00+02:00",
+   "schedule_type": "class",
+   "is_full": false,
+   "customer_url": "/p/10213813-the-shala-cape-town-yoga-/e/103214944-morning-practice/",
+   "instructors": [
+    {
+     "name": "Jo Jones"
+    }
+   ],
+   "venue": {
+    "name": "In-Studio"
+   }
+  },
+  {
+   "id": 103214639,
+   "name": "Slow Flow",
+   "starts_at": "2026-10-30T08:45:00+02:00",
+   "ends_at": "2026-10-30T09:45:00+02:00",
+   "schedule_type": "class",
+   "is_full": false,
+   "customer_url": "/p/10213813-the-shala-cape-town-yoga-/e/103214639-slow-flow/",
+   "instructors": [
+    {
+     "name": "Bea Baker"
+    }
+   ],
+   "venue": {
+    "name": "In-Studio"
+   }
+  },
+  {
+   "id": 103213392,
+   "name": "Lunch Class",
+   "starts_at": "2026-10-30T12:30:00+02:00",
+   "ends_at": "2026-10-30T13:30:00+02:00",
+   "schedule_type": "class",
+   "is_full": false,
+   "customer_url": "/p/10213813-the-shala-cape-town-yoga-/e/103213392-lunch-class/",
+   "instructors": [
+    {
+     "name": "Kai Kemp"
+    }
+   ],
+   "venue": {
+    "name": "In-Studio"
+   }
+  },
+  {
+   "id": 103215086,
+   "name": "The Unwind",
+   "starts_at": "2026-10-30T17:30:00+02:00",
+   "ends_at": "2026-10-30T18:30:00+02:00",
+   "schedule_type": "class",
+   "is_full": false,
+   "customer_url": "/p/10213813-the-shala-cape-town-yoga-/e/103215086-the-unwind/",
+   "instructors": [
+    {
+     "name": "Kai Kemp"
+    }
+   ],
+   "venue": {
+    "name": "In-Studio"
+   }
+  },
+  {
+   "id": 103214099,
+   "name": "Saturday Practice",
+   "starts_at": "2026-10-31T09:00:00+02:00",
+   "ends_at": "2026-10-31T10:30:00+02:00",
+   "schedule_type": "class",
+   "is_full": false,
+   "customer_url": "/p/10213813-the-shala-cape-town-yoga-/e/103214099-saturday-practice/",
+   "instructors": [
+    {
+     "name": "Cara Carver"
+    }
+   ],
+   "venue": {
+    "name": "In-Studio"
+   }
+  },
+  {
+   "id": 103213949,
+   "name": "Sunday Practice",
+   "starts_at": "2026-11-01T09:30:00+02:00",
+   "ends_at": "2026-11-01T11:00:00+02:00",
+   "schedule_type": "class",
+   "is_full": false,
+   "customer_url": "/p/10213813-the-shala-cape-town-yoga-/e/103213949-sunday-practice/",
+   "instructors": [
+    {
+     "name": "Kai Kemp"
+    }
+   ],
+   "venue": {
+    "name": "In-Studio"
+   }
+  },
+  {
+   "id": 110288213,
+   "name": "WORKSHOP: The Yoga of Us",
+   "starts_at": "2026-11-01T11:30:00+02:00",
+   "ends_at": "2026-11-01T14:30:00+02:00",
+   "schedule_type": "class",
+   "is_full": false,
+   "customer_url": "/p/10213813-the-shala-cape-town-yoga-/e/110288213-workshop-the-yoga-of-us/",
+   "instructors": [
+    {
+     "name": "Lena Lowe"
+    }
+   ],
+   "venue": {
+    "name": "In-Studio"
+   }
+  },
+  {
+   "id": 110678900,
+   "name": "Yin & Meditation w/ Milo Moss",
+   "starts_at": "2026-11-01T18:00:00+02:00",
+   "ends_at": "2026-11-01T19:15:00+02:00",
+   "schedule_type": "class",
+   "is_full": false,
+   "customer_url": "/p/10213813-the-shala-cape-town-yoga-/e/110678900-yin-meditation-w-elana-scott/",
+   "instructors": [
+    {
+     "name": "Milo Moss"
+    }
+   ],
+   "venue": {
+    "name": "In-Studio"
+   }
+  }
+ ]
+}

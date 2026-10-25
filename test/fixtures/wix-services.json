@@ -1,0 +1,773 @@
+{
+ "services": [
+  {
+   "id": "027e3e81-5857-457a-8a1d-1b195579e541",
+   "name": "2.5 Hour Non-Exclusive Studio Hire",
+   "type": "APPOINTMENT",
+   "category": {
+    "name": "STUDIO HIRE"
+   },
+   "urls": {
+    "bookingPage": {
+     "url": "https://www.lighthouseholistic.co.za/booking-calendar/2-5-hour-non-exclusive-studio-hire"
+    }
+   }
+  },
+  {
+   "id": "06203ec2-3709-4a42-9aa6-92066b5069d6",
+   "name": "1 Hour Non-Exclusive Studio Hire",
+   "type": "APPOINTMENT",
+   "category": {
+    "name": "STUDIO HIRE"
+   },
+   "urls": {
+    "bookingPage": {
+     "url": "https://www.lighthouseholistic.co.za/booking-calendar/1-hour-non-exclusive-studio-hire"
+    }
+   }
+  },
+  {
+   "id": "06f4167a-f0c6-4a17-b26d-0a720be18b6c",
+   "name": "Aerial Yoga",
+   "type": "CLASS",
+   "category": {
+    "name": "AERIAL YOGA"
+   },
+   "urls": {
+    "bookingPage": {
+     "url": "https://www.lighthouseholistic.co.za/booking-calendar/aerial-yoga"
+    }
+   }
+  },
+  {
+   "id": "0dc3c7fe-b265-4d82-a2c6-820f5c61cb30",
+   "name": "Movement & Mobility",
+   "type": "CLASS",
+   "category": {
+    "name": "DAILY YOGA"
+   },
+   "urls": {
+    "bookingPage": {
+     "url": "https://www.lighthouseholistic.co.za/booking-calendar/movement-mobility"
+    }
+   }
+  },
+  {
+   "id": "10bf7524-4573-4985-a5b9-e4ab8f9283fb",
+   "name": "Holosomatic Breathwork",
+   "type": "CLASS",
+   "category": {
+    "name": "WORKSHOPS"
+   },
+   "urls": {
+    "bookingPage": {
+     "url": "https://www.lighthouseholistic.co.za/booking-calendar/holosomatic-breathwork"
+    }
+   }
+  },
+  {
+   "id": "2160371b-f726-47f6-8288-115077f13906",
+   "name": "Half Day Filming Venue Hire",
+   "type": "APPOINTMENT",
+   "category": {
+    "name": "STUDIO HIRE"
+   },
+   "urls": {
+    "bookingPage": {
+     "url": "https://www.lighthouseholistic.co.za/booking-calendar/half-day-filming-venue-hire-1"
+    }
+   }
+  },
+  {
+   "id": "23a89690-c7c6-44c1-87e5-1de27a1a2f17",
+   "name": "4 Hour Exclusive Venue Hire",
+   "type": "APPOINTMENT",
+   "category": {
+    "name": "EXCLUSIVE HIRE"
+   },
+   "urls": {
+    "bookingPage": {
+     "url": "https://www.lighthouseholistic.co.za/booking-calendar/4-hour-exclusive-venue-hire"
+    }
+   }
+  },
+  {
+   "id": "25e91693-db8a-4184-805d-7b8be67fab79",
+   "name": "Breathwork & Visualisation",
+   "type": "CLASS",
+   "category": {
+    "name": "WORKSHOPS"
+   },
+   "urls": {
+    "bookingPage": {
+     "url": "https://www.lighthouseholistic.co.za/booking-calendar/breathwork-visualisation"
+    }
+   }
+  },
+  {
+   "id": "2b5d7d0c-4e8c-42e4-bd08-d29831c6f276",
+   "name": "Soul Flow",
+   "type": "CLASS",
+   "category": {
+    "name": "DAILY YOGA"
+   },
+   "urls": {
+    "bookingPage": {
+     "url": "https://www.lighthouseholistic.co.za/booking-calendar/soul-flow"
+    }
+   }
+  },
+  {
+   "id": "2b60d12d-98b1-4376-9858-562d0adbc0ed",
+   "name": "Level 1 | Sound Healing Training",
+   "type": "COURSE",
+   "category": {
+    "name": "WORKSHOPS"
+   },
+   "urls": {
+    "bookingPage": {
+     "url": "https://www.lighthouseholistic.co.za/service-page/level-1-sound-healing-training"
+    }
+   }
+  },
+  {
+   "id": "2dffcb81-3108-41ad-8630-501269433248",
+   "name": "Full Day Stills Venue Hire",
+   "type": "APPOINTMENT",
+   "category": {
+    "name": "STUDIO HIRE"
+   },
+   "urls": {
+    "bookingPage": {
+     "url": "https://www.lighthouseholistic.co.za/booking-calendar/full-day-stills-venue-hire-1"
+    }
+   }
+  },
+  {
+   "id": "2e470708-4905-4878-a0ec-4804009caacd",
+   "name": "Day Drop-in",
+   "type": "CLASS",
+   "category": {
+    "name": "DAILY YOGA"
+   },
+   "urls": {
+    "bookingPage": {
+     "url": "https://www.lighthouseholistic.co.za/booking-calendar/day-drop-in"
+    }
+   }
+  },
+  {
+   "id": "2f07d6a6-d6af-4da8-b33e-6f951815cec4",
+   "name": "Breathwork, Reiki & Inner Child Healing",
+   "type": "CLASS",
+   "category": {
+    "name": "WORKSHOPS"
+   },
+   "urls": {
+    "bookingPage": {
+     "url": "https://www.lighthouseholistic.co.za/booking-calendar/breathwork-reiki-inner-child-healing"
+    }
+   }
+  },
+  {
+   "id": "357ca611-07c3-436e-be57-011b5065f6ff",
+   "name": "CME Swiss Bio-Frequency – Deep",
+   "type": "APPOINTMENT",
+   "category": {
+    "name": "APPOINTMENTS"
+   },
+   "urls": {
+    "bookingPage": {
+     "url": "https://www.lighthouseholistic.co.za/booking-calendar/cme-swiss-bio-frequency-deep"
+    }
+   }
+  },
+  {
+   "id": "414eedb9-d7c0-4f1d-b72c-ee4e03f0e4d4",
+   "name": "Pranayama & Meditation",
+   "type": "CLASS",
+   "category": {
+    "name": "DAILY YOGA"
+   },
+   "urls": {
+    "bookingPage": {
+     "url": "https://www.lighthouseholistic.co.za/booking-calendar/pranayama-meditation"
+    }
+   }
+  },
+  {
+   "id": "476645d2-cae7-4611-8f21-d078d5f1b32d",
+   "name": "4 Hour Non-Exclusive Studio Hire",
+   "type": "APPOINTMENT",
+   "category": {
+    "name": "STUDIO HIRE"
+   },
+   "urls": {
+    "bookingPage": {
+     "url": "https://www.lighthouseholistic.co.za/booking-calendar/4-hour-non-exclusive-studio-hire"
+    }
+   }
+  },
+  {
+   "id": "4771d15e-3945-431e-9908-fffd78c9cd10",
+   "name": "Family Constellations",
+   "type": "CLASS",
+   "category": {
+    "name": "WORKSHOPS"
+   },
+   "urls": {
+    "bookingPage": {
+     "url": "https://www.lighthouseholistic.co.za/booking-calendar/family-constellations"
+    }
+   }
+  },
+  {
+   "id": "4e2b3f3e-6ca9-43ee-9710-da70471801fd",
+   "name": "8 Hour Exclusive Venue Hire",
+   "type": "APPOINTMENT",
+   "category": {
+    "name": "EXCLUSIVE HIRE"
+   },
+   "urls": {
+    "bookingPage": {
+     "url": "https://www.lighthouseholistic.co.za/booking-calendar/8-hour-exclusive-venue-hire"
+    }
+   }
+  },
+  {
+   "id": "550f7748-5b82-4d01-8481-6080c246713f",
+   "name": "Evening Flow",
+   "type": "CLASS",
+   "category": {
+    "name": "DAILY YOGA"
+   },
+   "urls": {
+    "bookingPage": {
+     "url": "https://www.lighthouseholistic.co.za/booking-calendar/evening-flow"
+    }
+   }
+  },
+  {
+   "id": "59570245-78bf-44ed-bb0a-2b9cbf576a35",
+   "name": "Aerial Yin & Nidra",
+   "type": "CLASS",
+   "category": {
+    "name": "WORKSHOPS"
+   },
+   "urls": {
+    "bookingPage": {
+     "url": "https://www.lighthouseholistic.co.za/booking-calendar/aerial-yin-nidra"
+    }
+   }
+  },
+  {
+   "id": "5d8374a7-17c0-4b0d-9e66-892cf76c8f12",
+   "name": "2 Hour Exclusive Sauna Hire",
+   "type": "APPOINTMENT",
+   "category": {
+    "name": "STUDIO HIRE"
+   },
+   "urls": {
+    "bookingPage": {
+     "url": "https://www.lighthouseholistic.co.za/booking-calendar/2-hour-exclusive-sauna-hire"
+    }
+   }
+  },
+  {
+   "id": "615a6cd6-2a87-4466-a7ee-b064a71bd7c4",
+   "name": "Half Day Stills Venue Hire",
+   "type": "APPOINTMENT",
+   "category": {
+    "name": "STUDIO HIRE"
+   },
+   "urls": {
+    "bookingPage": {
+     "url": "https://www.lighthouseholistic.co.za/booking-calendar/half-day-stills-venue-hire-1"
+    }
+   }
+  },
+  {
+   "id": "646c19f9-92f0-4c9f-9721-34bac69be2f4",
+   "name": "Half Day Filming Venue Hire",
+   "type": "APPOINTMENT",
+   "category": {
+    "name": "EXCLUSIVE HIRE"
+   },
+   "urls": {
+    "bookingPage": {
+     "url": "https://www.lighthouseholistic.co.za/booking-calendar/half-day-filming-venue-hire"
+    }
+   }
+  },
+  {
+   "id": "66be5913-9919-47bf-ac37-c02b63042224",
+   "name": "1 Hour Exclusive Sauna Hire",
+   "type": "APPOINTMENT",
+   "category": {
+    "name": "STUDIO HIRE"
+   },
+   "urls": {
+    "bookingPage": {
+     "url": "https://www.lighthouseholistic.co.za/booking-calendar/1-hour-exclusive-sauna-hire"
+    }
+   }
+  },
+  {
+   "id": "6793b2e8-e556-4ffd-9ace-9527d0efeb20",
+   "name": "Conscious Connected Breathwork",
+   "type": "CLASS",
+   "category": {
+    "name": "WORKSHOPS"
+   },
+   "urls": {
+    "bookingPage": {
+     "url": "https://www.lighthouseholistic.co.za/booking-calendar/conscious-connected-breathwork"
+    }
+   }
+  },
+  {
+   "id": "67952a86-38ba-406f-989b-2e2a28510793",
+   "name": "Hypnotherapy Reset",
+   "type": "CLASS",
+   "category": {
+    "name": "WORKSHOPS"
+   },
+   "urls": {
+    "bookingPage": {
+     "url": "https://www.lighthouseholistic.co.za/booking-calendar/hypnotherapy-reset"
+    }
+   }
+  },
+  {
+   "id": "6ac60433-f871-4971-ad0a-9c9eb8df4c6e",
+   "name": "Full Day Filming Venue Hire",
+   "type": "APPOINTMENT",
+   "category": {
+    "name": "STUDIO HIRE"
+   },
+   "urls": {
+    "bookingPage": {
+     "url": "https://www.lighthouseholistic.co.za/booking-calendar/full-day-filming-venue-hire-1"
+    }
+   }
+  },
+  {
+   "id": "6f4597b9-7a0f-41d4-bd5d-7a2295a21937",
+   "name": "Closed (Public Holiday)",
+   "type": "CLASS",
+   "category": {
+    "name": "DAILY YOGA"
+   },
+   "urls": {
+    "bookingPage": {
+     "url": "https://www.lighthouseholistic.co.za/booking-calendar/closed-public-holiday"
+    }
+   }
+  },
+  {
+   "id": "71111186-a097-48be-b95e-c96bf5ac646e",
+   "name": "Full Day Filming Venue Hire",
+   "type": "APPOINTMENT",
+   "category": {
+    "name": "EXCLUSIVE HIRE"
+   },
+   "urls": {
+    "bookingPage": {
+     "url": "https://www.lighthouseholistic.co.za/booking-calendar/full-day-filming-venue-hire"
+    }
+   }
+  },
+  {
+   "id": "7863372e-ec60-4c18-820d-6b74bdb605b1",
+   "name": "Full Moon Meditation in Motion",
+   "type": "CLASS",
+   "category": {
+    "name": "WORKSHOPS"
+   },
+   "urls": {
+    "bookingPage": {
+     "url": "https://www.lighthouseholistic.co.za/booking-calendar/full-moon-meditation-in-motion"
+    }
+   }
+  },
+  {
+   "id": "79531b5c-eba0-483f-9443-217251e44fa0",
+   "name": "Aerial Yoga (Beginners)",
+   "type": "CLASS",
+   "category": {
+    "name": "AERIAL YOGA"
+   },
+   "urls": {
+    "bookingPage": {
+     "url": "https://www.lighthouseholistic.co.za/booking-calendar/aerial-yoga-beginners"
+    }
+   }
+  },
+  {
+   "id": "7acfb422-7cd2-4c6c-a733-26713b60ad85",
+   "name": "Closed (Private Event)",
+   "type": "CLASS",
+   "category": {
+    "name": "DAILY YOGA"
+   },
+   "urls": {
+    "bookingPage": {
+     "url": "https://www.lighthouseholistic.co.za/booking-calendar/closed-private-event"
+    }
+   }
+  },
+  {
+   "id": "7fd2ac43-a2e8-41ee-88d9-a7232d2160ae",
+   "name": "2 Hour Non-Exclusive Studio Hire",
+   "type": "APPOINTMENT",
+   "category": {
+    "name": "STUDIO HIRE"
+   },
+   "urls": {
+    "bookingPage": {
+     "url": "https://www.lighthouseholistic.co.za/booking-calendar/2-hour-non-exclusive-studio-hire"
+    }
+   }
+  },
+  {
+   "id": "87ff1618-f187-4423-aec7-e9defe9c8eb1",
+   "name": "Sunday Sadhana | Meditate & Move",
+   "type": "CLASS",
+   "category": {
+    "name": "DAILY YOGA"
+   },
+   "urls": {
+    "bookingPage": {
+     "url": "https://www.lighthouseholistic.co.za/booking-calendar/sunday-sadhana-meditate-move"
+    }
+   }
+  },
+  {
+   "id": "8992c5ed-4070-482e-aaf3-087a4fef37a2",
+   "name": "Cape Town Men's Group",
+   "type": "CLASS",
+   "category": {
+    "name": "WORKSHOPS"
+   },
+   "urls": {
+    "bookingPage": {
+     "url": "https://www.lighthouseholistic.co.za/booking-calendar/cape-town-men-s-group"
+    }
+   }
+  },
+  {
+   "id": "9391d71e-bb13-4dd2-93d5-f1370b842a66",
+   "name": "Sauna | Heat Therapy",
+   "type": "CLASS",
+   "category": {
+    "name": "SAUNA"
+   },
+   "urls": {
+    "bookingPage": {
+     "url": "https://www.lighthouseholistic.co.za/booking-calendar/sauna-heat-therapy"
+    }
+   }
+  },
+  {
+   "id": "9612714f-00c3-4bf3-8eda-4fdded87a9e1",
+   "name": "Half Day Stills Venue Hire",
+   "type": "APPOINTMENT",
+   "category": {
+    "name": "EXCLUSIVE HIRE"
+   },
+   "urls": {
+    "bookingPage": {
+     "url": "https://www.lighthouseholistic.co.za/booking-calendar/half-day-stills-venue-hire"
+    }
+   }
+  },
+  {
+   "id": "96d1ea80-4e63-4e37-915b-99517d9789fe",
+   "name": "3 Hour Non-Exclusive Studio Hire",
+   "type": "APPOINTMENT",
+   "category": {
+    "name": "STUDIO HIRE"
+   },
+   "urls": {
+    "bookingPage": {
+     "url": "https://www.lighthouseholistic.co.za/booking-calendar/3-hour-non-exclusive-studio-hire"
+    }
+   }
+  },
+  {
+   "id": "99a8e86c-69c4-4337-8709-b42d8c8ee30d",
+   "name": "Rooted in Ritual: Cacao & Sound",
+   "type": "CLASS",
+   "category": {
+    "name": "WORKSHOPS"
+   },
+   "urls": {
+    "bookingPage": {
+     "url": "https://www.lighthouseholistic.co.za/booking-calendar/rooted-in-ritual-cacao-sound"
+    }
+   }
+  },
+  {
+   "id": "a0e69e38-6be0-458a-adbd-f8860d1a2771",
+   "name": "2 Hour Exclusive Venue Hire",
+   "type": "APPOINTMENT",
+   "category": {
+    "name": "EXCLUSIVE HIRE"
+   },
+   "urls": {
+    "bookingPage": {
+     "url": "https://www.lighthouseholistic.co.za/booking-calendar/2-hour-exclusive-venue-hire"
+    }
+   }
+  },
+  {
+   "id": "a37f1861-f44f-45dc-bbe2-f2acef5d6370",
+   "name": "12 Hour Exclusive Venue Hire",
+   "type": "APPOINTMENT",
+   "category": {
+    "name": "EXCLUSIVE HIRE"
+   },
+   "urls": {
+    "bookingPage": {
+     "url": "https://www.lighthouseholistic.co.za/booking-calendar/12-hour-exclusive-venue-hire"
+    }
+   }
+  },
+  {
+   "id": "a8db4538-bc87-4d7c-8aa3-543eed404cce",
+   "name": "8 Hour Non-Exclusive Studio Hire",
+   "type": "APPOINTMENT",
+   "category": {
+    "name": "STUDIO HIRE"
+   },
+   "urls": {
+    "bookingPage": {
+     "url": "https://www.lighthouseholistic.co.za/booking-calendar/8-hour-non-exclusive-studio-hire"
+    }
+   }
+  },
+  {
+   "id": "aeb43b6f-7fff-4ff7-8fec-62e1f2ce4717",
+   "name": "Holosomatic Breathwork Journey",
+   "type": "CLASS",
+   "category": {
+    "name": "WORKSHOPS"
+   },
+   "urls": {
+    "bookingPage": {
+     "url": "https://www.lighthouseholistic.co.za/booking-calendar/holosomatic-breathwork-journey"
+    }
+   }
+  },
+  {
+   "id": "b4705ee1-1f26-4226-91c4-957b09bb22c7",
+   "name": "1 Hour Teacher Studio Hire",
+   "type": "APPOINTMENT",
+   "category": {
+    "name": "STUDIO HIRE"
+   },
+   "urls": {
+    "bookingPage": {
+     "url": "https://www.lighthouseholistic.co.za/booking-calendar/1-hour-teacher-studio-hire"
+    }
+   }
+  },
+  {
+   "id": "be262a6a-67bb-4128-a9a8-fca127a4a778",
+   "name": "CME Swiss Bio-Frequency – Express",
+   "type": "APPOINTMENT",
+   "category": {
+    "name": "APPOINTMENTS"
+   },
+   "urls": {
+    "bookingPage": {
+     "url": "https://www.lighthouseholistic.co.za/booking-calendar/cme-swiss-bio-frequency-express"
+    }
+   }
+  },
+  {
+   "id": "c7e97dc7-2c4a-421b-85f1-0d2acb8950e9",
+   "name": "Gong Sound Bath",
+   "type": "CLASS",
+   "category": {
+    "name": "WORKSHOPS"
+   },
+   "urls": {
+    "bookingPage": {
+     "url": "https://www.lighthouseholistic.co.za/booking-calendar/gong-sound-bath"
+    }
+   }
+  },
+  {
+   "id": "cc7dddee-f384-4de7-a073-7cd7bd1ec1e0",
+   "name": "Sound Healing",
+   "type": "CLASS",
+   "category": {
+    "name": "WORKSHOPS"
+   },
+   "urls": {
+    "bookingPage": {
+     "url": "https://www.lighthouseholistic.co.za/booking-calendar/sound-healing"
+    }
+   }
+  },
+  {
+   "id": "d19cd3d9-4d8e-4db9-b2f9-b6c8fe003a7c",
+   "name": "Advanced Yoga Play",
+   "type": "CLASS",
+   "category": {
+    "name": "DAILY YOGA"
+   },
+   "urls": {
+    "bookingPage": {
+     "url": "https://www.lighthouseholistic.co.za/booking-calendar/advanced-yoga-play"
+    }
+   }
+  },
+  {
+   "id": "d54f8c97-4798-4698-96e5-c11aa85028d5",
+   "name": "Energy Healing in-person",
+   "type": "APPOINTMENT",
+   "category": {
+    "name": "APPOINTMENTS"
+   },
+   "urls": {
+    "bookingPage": {
+     "url": "https://www.lighthouseholistic.co.za/booking-calendar/energy-healing-in-person"
+    }
+   }
+  },
+  {
+   "id": "e09332b1-a98e-4c3d-b8db-0a1e8dbbabe6",
+   "name": "Yin & Yoga Nidra",
+   "type": "CLASS",
+   "category": {
+    "name": "WORKSHOPS"
+   },
+   "urls": {
+    "bookingPage": {
+     "url": "https://www.lighthouseholistic.co.za/booking-calendar/yin-yoga-nidra"
+    }
+   }
+  },
+  {
+   "id": "e536008f-33f3-4f67-93e4-0138c3fbf027",
+   "name": "6 Hour Non-Exclusive Studio Hire",
+   "type": "APPOINTMENT",
+   "category": {
+    "name": "STUDIO HIRE"
+   },
+   "urls": {
+    "bookingPage": {
+     "url": "https://www.lighthouseholistic.co.za/booking-calendar/6-hour-non-exclusive-studio-hire"
+    }
+   }
+  },
+  {
+   "id": "ecbea27e-567f-4588-bb3a-e87ae0f2c4de",
+   "name": "30 min meeting",
+   "type": "APPOINTMENT",
+   "urls": {
+    "bookingPage": {
+     "url": "https://www.lighthouseholistic.co.za/_meetings/9ee228f2-3000-41ae-a585-ae4961ceed13/30-min-meeting"
+    }
+   }
+  },
+  {
+   "id": "efcee5f2-20fb-43b3-b790-b8f199d9b0d1",
+   "name": "Saturday Morning Yoga",
+   "type": "CLASS",
+   "category": {
+    "name": "DAILY YOGA"
+   },
+   "urls": {
+    "bookingPage": {
+     "url": "https://www.lighthouseholistic.co.za/booking-calendar/saturday-morning-yoga"
+    }
+   }
+  },
+  {
+   "id": "f0e98a9d-0cc7-492a-a88f-8326213b1052",
+   "name": "The Pulse of Seasons | Yoga, Song, Nidra",
+   "type": "CLASS",
+   "category": {
+    "name": "WORKSHOPS"
+   },
+   "urls": {
+    "bookingPage": {
+     "url": "https://www.lighthouseholistic.co.za/booking-calendar/the-pulse-of-seasons-yoga-song-nidra"
+    }
+   }
+  },
+  {
+   "id": "f24950b0-53cd-4cc5-8a96-1e30243bcf63",
+   "name": "Emotional Release Therapy Somatic Breath",
+   "type": "CLASS",
+   "category": {
+    "name": "WORKSHOPS"
+   },
+   "urls": {
+    "bookingPage": {
+     "url": "https://www.lighthouseholistic.co.za/booking-calendar/emotional-release-therapy-somatic-breath"
+    }
+   }
+  },
+  {
+   "id": "f466c432-1287-4f11-97c9-b5283ae69a09",
+   "name": "Full Day Stills Venue Hire",
+   "type": "APPOINTMENT",
+   "category": {
+    "name": "EXCLUSIVE HIRE"
+   },
+   "urls": {
+    "bookingPage": {
+     "url": "https://www.lighthouseholistic.co.za/booking-calendar/full-day-stills-venue-hire"
+    }
+   }
+  },
+  {
+   "id": "f746021d-35a8-4a9b-b722-ccc4294c0f36",
+   "name": "Midday Reset",
+   "type": "CLASS",
+   "category": {
+    "name": "DAILY YOGA"
+   },
+   "urls": {
+    "bookingPage": {
+     "url": "https://www.lighthouseholistic.co.za/booking-calendar/midday-reset"
+    }
+   }
+  },
+  {
+   "id": "f769eec3-b674-4f3c-9721-a2aa7ae73154",
+   "name": "Morning Yoga",
+   "type": "CLASS",
+   "category": {
+    "name": "DAILY YOGA"
+   },
+   "urls": {
+    "bookingPage": {
+     "url": "https://www.lighthouseholistic.co.za/booking-calendar/morning-yoga-1"
+    }
+   }
+  },
+  {
+   "id": "ffac1629-f5c0-444b-afae-f882a2460481",
+   "name": "Yin Yoga",
+   "type": "CLASS",
+   "category": {
+    "name": "DAILY YOGA"
+   },
+   "urls": {
+    "bookingPage": {
+     "url": "https://www.lighthouseholistic.co.za/booking-calendar/yin-yoga"
+    }
+   }
+  }
+ ],
+ "pagingMetadata": {
+  "count": 59,
+  "total": 59,
+  "hasNext": false
+ }
+}
