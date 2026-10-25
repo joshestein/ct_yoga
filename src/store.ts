@@ -18,8 +18,10 @@ export async function saveSnapshot(dataDir: string, id: StudioId, snapshot: Snap
 
 /** Write to a temp file, then rename, so readers never see a partial file */
 export async function writeAtomic(path: string, contents: string): Promise<void> {
-  await mkdir(dirname(path), { recursive: true });
-  const tmp = `${path}.${process.pid}.tmp`;
+  const dir = dirname(path);
+  await mkdir(dir, { recursive: true });
+  // Dotfile so a crash before the rename does not leave a publicly served stray in the web root
+  const tmp = join(dir, `.${basename(path)}.${process.pid}.tmp`);
   await writeFile(tmp, contents);
   await rename(tmp, path);
 }
