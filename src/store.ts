@@ -29,7 +29,7 @@ export async function saveSnapshot(dataDir: string, id: StudioId, snapshot: Snap
 export async function writeAtomic(path: string, contents: string): Promise<void> {
   const dir = dirname(path);
   await mkdir(dir, { recursive: true });
-  // Dotfile so a crash before the rename does not leave a publicly served stray in the web root
+  // A crash before the rename can leave this file behind. In the web root it holds only the public page.
   const tmp = join(dir, `.${basename(path)}.${process.pid}.tmp`);
   await writeFile(tmp, contents);
   await rename(tmp, path);
