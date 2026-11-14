@@ -23,6 +23,15 @@ const startOf = (li) => Date.parse(li.dataset.start ?? "");
 /** @type {import("./types.ts").ClientConfig} */
 const config = JSON.parse($("#config").textContent ?? "");
 const now = Date.now();
+
+// Past Classes and old data are decided once, at load. A phone can show this tab again hours later without a reload,
+// so reload then: that also gets the newest schedule.
+const RELOAD_AFTER_MS = 30 * 60 * 1000;
+const reloadIfOld = () => {
+  if (document.visibilityState === "visible" && Date.now() - now > RELOAD_AFTER_MS) location.reload();
+};
+document.addEventListener("visibilitychange", reloadIfOld);
+window.addEventListener("pageshow", (event) => event.persisted && reloadIfOld());
 const localDate = new Intl.DateTimeFormat("en-CA", { timeZone: config.timeZone }).format;
 const when = new Intl.DateTimeFormat("en-GB", {
   timeZone: config.timeZone,
