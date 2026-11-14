@@ -14,9 +14,8 @@ body {
   background: var(--ground);
   color: var(--ink);
   font:
-    16px/1.35 "Schibsted Grotesk",
+    16px/1.35 ui-sans-serif,
     system-ui,
-    -apple-system,
     sans-serif;
   -webkit-text-size-adjust: 100%;
 }
@@ -34,6 +33,7 @@ header {
   gap: 0.25rem 1rem;
 }
 h1 {
+  font-family: "Crimson Pro", Georgia, serif;
   font-size: 1rem;
   font-weight: 700;
   margin: 0;
